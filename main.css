@@ -17,7 +17,7 @@ body {
   background: #ffffff;
   padding: 23px;
   border-radius: 20px;
-  box-shadow: 10px 10px #111;
+  box-shadow: 9px 9px #111;
   border: 1px solid #111;
 
   @media (max-width: 375px) {
@@ -52,6 +52,7 @@ body {
 }
 .blog-heading {
   margin: 0;
+  font-size: 24px;
 }
 .blog-title {
   margin: 0;
