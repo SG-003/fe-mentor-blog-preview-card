@@ -40,10 +40,12 @@ body {
 }
 .blog-tag {
   background: #f4d04e;
+  box-sizing: border-box;
   padding: 4px 12px;
   border-radius: 4px;
   font-size: 14px;
   font-weight: 800;
+  height: 29px;
 }
 .blog-date {
   margin: 0;
